@@ -1,6 +1,6 @@
 # Lime-Project
 
-Projet Lime.
+Projet de réalisation d'une infrastructure data pour Lime.
 
 Ce projet  à été réalisé dans le cadre de la validation du programme Data Lead de Jedha et pour le bloc 1 de la certification RNCP.
 
